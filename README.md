@@ -35,5 +35,4 @@ Our reimplementation achieves:
 - Improved performance on water management policy analysis tasks
 - Efficient utilization of GPU resources through gradient checkpointing
 
-For detailed results and analysis, please refer to our paper (link to be added).
-
+For detailed results and analysis, please refer the final project paper.
